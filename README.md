@@ -1,4 +1,4 @@
-![Netlify examples](netlify-badge-examples.png)
+![Admisicolie <img id="logo-colegio" src="file:///C:/Users/giane/Desktop/1-%20SENA%20-%20ANALISIS%20Y%20DESARROLLO%20DE%20SOFWARE/7-%20IMAGENES/ESCUDO_SANTA_M__DE_LA_PROVIDENCIA-removebg-preview.png" alt="Logo del colegio">
 
 # Netlify Feature Tour
 
