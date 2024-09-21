@@ -1,8 +1,8 @@
-Admisicolie <img id="logo-colegio" src="file:///C:/Users/giane/Desktop/1-%20SENA%20-%20ANALISIS%20Y%20DESARROLLO%20DE%20SOFWARE/7-%20IMAGENES/ESCUDO_SANTA_M__DE_LA_PROVIDENCIA-removebg-preview.png" alt="Logo del colegio">
+Admisicolie id="logo-colegio" src="file:///C:/Users/giane/Desktop/1-%20SENA%20-%20ANALISIS%20Y%20DESARROLLO%20DE%20SOFWARE/7-%20IMAGENES/ESCUDO_SANTA_M__DE_LA_PROVIDENCIA-removebg-preview.png" alt="Logo del colegio">
 
 # Netlify Feature Tour
 
-**Access this demo site**: file:///C:/Users/carit/OneDrive/Escritorio/SENA%20ALVEIRO/7-%20PROYECTO%20ADMISICOLIE/ADMISICOLE.html
+**Access this demo site**:ADMISICOLE.html
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/fad6792e-1c44-44db-bd79-ea74b42b0f89/deploy-status)](https://app.netlify.com/sites/feature-tour/deploys)
 
